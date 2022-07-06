@@ -1,0 +1,5 @@
+.philo:hover{
+    transform: scale(0.9);
+    background-color: rgb(82, 134, 208);
+    color: white;
+}
